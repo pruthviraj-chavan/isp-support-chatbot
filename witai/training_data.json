@@ -1,0 +1,8 @@
+Intent: internet_issue
+Examples: "My internet is not working", "No connection", "Internet down"
+
+Intent: bill_payment
+Examples: "I want to pay my bill", "How do I pay", "Make a payment"
+
+Intent: speed_issue
+Examples: "Why is it slow", "Internet speed is bad", "Slow Wi-Fi"
