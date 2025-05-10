@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip isp.zip isp\/app.json isp\/entities\/*.json isp\/intents\/*.json isp\/traits\/*.json isp\/utterances\/*.json isp\/composer\/*.json",
+    "name": "isp",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

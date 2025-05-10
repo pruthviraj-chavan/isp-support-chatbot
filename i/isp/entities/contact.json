@@ -1,0 +1,42 @@
+{
+    "name": "contact",
+    "roles": [
+        "contact"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Escalate",
+            "synonyms": [
+                "escalate"
+            ]
+        },
+        {
+            "keyword": "contact_support",
+            "synonyms": [
+                "contact_support"
+            ]
+        },
+        {
+            "keyword": "help",
+            "synonyms": [
+                "help"
+            ]
+        },
+        {
+            "keyword": "person",
+            "synonyms": [
+                "person"
+            ]
+        },
+        {
+            "keyword": "speak",
+            "synonyms": [
+                "speak"
+            ]
+        }
+    ]
+}

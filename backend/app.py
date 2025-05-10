@@ -11,8 +11,8 @@ with open('intents.json') as f:
 
     INTENTS = json.load(f)
 
-WIT_AI_TOKEN = 'M4FFKPLV4HI3F4S7ENHLKNHW6IXEMVNW'
-WIT_API_URL = 'https://api.wit.ai/message?v=20200513&q='
+WIT_AI_TOKEN = 'XWTYNA5Y62FQH3E3KYW7EQEU6VKXPSKS'
+WIT_API_URL = 'https://api.wit.ai/message?v=20250510&q='
 
 def detect_intent(text):
     headers = {'Authorization': f'Bearer {WIT_AI_TOKEN}'}

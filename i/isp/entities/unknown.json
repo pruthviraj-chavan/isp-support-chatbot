@@ -1,0 +1,36 @@
+{
+    "name": "unknown",
+    "roles": [
+        "unknown"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Blah blah",
+            "synonyms": [
+                "blah blah"
+            ]
+        },
+        {
+            "keyword": "Random input",
+            "synonyms": [
+                "random input"
+            ]
+        },
+        {
+            "keyword": "nonsense",
+            "synonyms": [
+                "nonsense"
+            ]
+        },
+        {
+            "keyword": "unknown",
+            "synonyms": [
+                "unknown"
+            ]
+        }
+    ]
+}

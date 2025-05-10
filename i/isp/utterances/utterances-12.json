@@ -1,0 +1,270 @@
+{
+    "utterances": [
+        {
+            "text": "Blah blah",
+            "entities": [
+                {
+                    "entity": "unknown:unknown",
+                    "start": 0,
+                    "end": 9,
+                    "body": "Blah blah",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_unknown"
+        },
+        {
+            "text": "Do you accept credit cards?",
+            "entities": [
+                {
+                    "entity": "cards:cards",
+                    "start": 21,
+                    "end": 26,
+                    "body": "cards",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_bill_payment"
+        },
+        {
+            "text": "Escalate this issue",
+            "entities": [
+                {
+                    "entity": "contact:contact",
+                    "start": 0,
+                    "end": 9,
+                    "body": "Escalate ",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_contact_support"
+        },
+        {
+            "text": "Good morning",
+            "entities": [
+                {
+                    "entity": "greeting:greeting",
+                    "start": 0,
+                    "end": 12,
+                    "body": "Good morning",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_greeting"
+        },
+        {
+            "text": "How are you?",
+            "entities": [
+                {
+                    "entity": "greeting:greeting",
+                    "start": 0,
+                    "end": 12,
+                    "body": "How are you?",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_greeting"
+        },
+        {
+            "text": "How can I improve my internet speed?",
+            "entities": [
+                {
+                    "entity": "internet:internet",
+                    "start": 21,
+                    "end": 29,
+                    "body": "internet",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_slow_internet"
+        },
+        {
+            "text": "How can I pay my bill?",
+            "entities": [
+                {
+                    "entity": "bill:bill",
+                    "start": 17,
+                    "end": 21,
+                    "body": "bill",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_bill_payment"
+        },
+        {
+            "text": "I need real help.",
+            "entities": [
+                {
+                    "entity": "contact:contact",
+                    "start": 12,
+                    "end": 16,
+                    "body": "help",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_contact_support"
+        },
+        {
+            "text": "I want to speak with support",
+            "entities": [
+                {
+                    "entity": "contact:contact",
+                    "start": 10,
+                    "end": 16,
+                    "body": "speak ",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_contact_support"
+        },
+        {
+            "text": "Internet speed is very low",
+            "entities": [
+                {
+                    "entity": "internet:internet",
+                    "start": 0,
+                    "end": 8,
+                    "body": "Internet",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_slow_internet"
+        },
+        {
+            "text": "Is there any problem with the network?",
+            "entities": [
+                {
+                    "entity": "network:network",
+                    "start": 30,
+                    "end": 37,
+                    "body": "network",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_slow_internet"
+        },
+        {
+            "text": "Random input",
+            "entities": [
+                {
+                    "entity": "unknown:unknown",
+                    "start": 0,
+                    "end": 12,
+                    "body": "Random input",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_unknown"
+        },
+        {
+            "text": "Some nonsense",
+            "entities": [
+                {
+                    "entity": "unknown:unknown",
+                    "start": 5,
+                    "end": 13,
+                    "body": "nonsense",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_unknown"
+        },
+        {
+            "text": "Talk to a person.",
+            "entities": [
+                {
+                    "entity": "contact:contact",
+                    "start": 10,
+                    "end": 16,
+                    "body": "person",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_contact_support"
+        },
+        {
+            "text": "What is the process of bill payment?",
+            "entities": [
+                {
+                    "entity": "bill:bill",
+                    "start": 23,
+                    "end": 27,
+                    "body": "bill",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_bill_payment"
+        },
+        {
+            "text": "Why is my internet so slow?",
+            "entities": [
+                {
+                    "entity": "internet:internet",
+                    "start": 10,
+                    "end": 18,
+                    "body": "internet",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_slow_internet"
+        },
+        {
+            "text": "contact_support",
+            "entities": [
+                {
+                    "entity": "contact:contact",
+                    "start": 0,
+                    "end": 15,
+                    "body": "contact_support",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_contact_support"
+        },
+        {
+            "text": "greeting",
+            "entities": [
+                {
+                    "entity": "greeting:greeting",
+                    "start": 0,
+                    "end": 8,
+                    "body": "greeting",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_greeting"
+        },
+        {
+            "text": "unknown",
+            "entities": [
+                {
+                    "entity": "unknown:unknown",
+                    "start": 0,
+                    "end": 7,
+                    "body": "unknown",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "intent_unknown"
+        }
+    ]
+}

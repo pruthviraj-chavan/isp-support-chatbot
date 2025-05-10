@@ -1,0 +1,30 @@
+{
+    "name": "greeting",
+    "roles": [
+        "greeting"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Good morning",
+            "synonyms": [
+                "good morning"
+            ]
+        },
+        {
+            "keyword": "How are you?",
+            "synonyms": [
+                "how are you?"
+            ]
+        },
+        {
+            "keyword": "greeting",
+            "synonyms": [
+                "greeting"
+            ]
+        }
+    ]
+}

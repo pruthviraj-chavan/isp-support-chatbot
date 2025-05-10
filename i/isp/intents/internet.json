@@ -1,0 +1,7 @@
+{
+    "name": "internet",
+    "entities": [
+        "internet:internet",
+        "network:network"
+    ]
+}
